@@ -1,0 +1,1818 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://example.com/pokemon/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Abomasnow	owl:sameAs	dbpedia:Abomasnow ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045dec0a> .
+@prefix ns3:	<https://demo.triply.cc/academy/pokemon/id/pokemon/> .
+ns1:Abomasnow	owl:sameAs	ns3:abomasnow .
+ns1:Abra	owl:sameAs	ns3:abra ,
+		dbpedia:Abra .
+ns1:Absol	owl:sameAs	ns3:absol ,
+		dbpedia:Absol ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000261cf7> .
+ns1:Aerodactyl	owl:sameAs	ns3:aerodactyl ,
+		dbpedia:Aerodactyl ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004448ad> .
+ns1:Aggron	owl:sameAs	ns3:aggron ,
+		dbpedia:Aggron ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044d35f> .
+ns1:Aipom	owl:sameAs	ns3:aipom ,
+		dbpedia:Aipom ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044d410> .
+ns1:Alakazam	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003ef43e> ,
+		ns3:alakazam ,
+		dbpedia:Alakazam .
+ns1:Altaria	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001e47e8> ,
+		ns3:altaria ,
+		dbpedia:Altaria .
+ns1:Ambipom	owl:sameAs	ns3:ambipom ,
+		dbpedia:Ambipom .
+ns1:Ampharos	owl:sameAs	dbpedia:Ampharos ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000056178e> ,
+		ns3:ampharos .
+ns1:Anorith	owl:sameAs	ns3:anorith ,
+		dbpedia:Anorith ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c42f9> .
+ns1:Arbok	owl:sameAs	dbpedia:Arbok ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000025dd6f> ,
+		ns3:arbok .
+ns1:Arcanine	owl:sameAs	ns3:arcanine ,
+		dbpedia:Arcanine ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000042b12b> .
+ns1:Arceus	owl:sameAs	dbpedia:Arceus ,
+		ns3:arceus .
+ns1:Ariados	owl:sameAs	ns3:ariados ,
+		dbpedia:Ariados ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595990> .
+ns1:Armaldo	owl:sameAs	ns3:armaldo ,
+		dbpedia:Armaldo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004bd6dc> .
+ns1:Aron	owl:sameAs	ns3:aron ,
+		dbpedia:Aron .
+ns1:Articuno	owl:sameAs	ns3:articuno ,
+		dbpedia:Articuno ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001e7bd4> .
+ns1:Azelf	owl:sameAs	ns3:azelf ,
+		dbpedia:Azelf .
+ns1:Azumarill	owl:sameAs	ns3:azumarill ,
+		dbpedia:Azumarill ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004be8b1> .
+ns1:Azurill	owl:sameAs	ns3:azurill ,
+		dbpedia:Azurill ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bf853> .
+ns1:Bagon	owl:sameAs	ns3:bagon ,
+		dbpedia:Bagon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000057cfba> .
+ns1:Baltoy	owl:sameAs	ns3:baltoy ,
+		dbpedia:Baltoy ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c26ff> .
+ns1:Banette	owl:sameAs	ns3:banette ,
+		dbpedia:Banette ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020ca18> .
+ns1:Barboach	owl:sameAs	ns3:barboach ,
+		dbpedia:Barboach ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000026fe30> .
+ns1:Bastiodon	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d7fe0> ,
+		ns3:bastiodon ,
+		dbpedia:Bastiodon .
+ns1:Bayleef	owl:sameAs	ns3:bayleef ,
+		dbpedia:Bayleef ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000343976> .
+ns1:Beautifly	owl:sameAs	ns3:beautifly ,
+		dbpedia:Beautifly ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000047c252> .
+ns1:Beedrill	owl:sameAs	ns3:beedrill ,
+		dbpedia:Beedrill ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001cfdd0> .
+ns1:Beldum	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005728778> ,
+		ns3:beldum ,
+		dbpedia:Beldum .
+ns1:Bellossom	owl:sameAs	ns3:bellossom ,
+		dbpedia:Bellossom ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000500308> .
+ns1:Bellsprout	owl:sameAs	ns3:bellsprout ,
+		dbpedia:Bellsprout ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000580fab> .
+ns1:Bibarel	owl:sameAs	ns3:bibarel ,
+		dbpedia:Bibarel ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d92ac> .
+ns1:Bidoof	owl:sameAs	ns3:bidoof ,
+		dbpedia:Bidoof ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eef003> .
+ns1:Blastoise	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000012e2a7> ,
+		ns3:blastoise ,
+		dbpedia:Blastoise .
+ns1:Blaziken	owl:sameAs	dbpedia:Blaziken ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000031fd01> ,
+		ns3:blaziken .
+ns1:Blissey	owl:sameAs	ns3:blissey ,
+		dbpedia:Blissey ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000033e720> .
+ns1:Bonsly	owl:sameAs	ns3:bonsly ,
+		dbpedia:Bonsly ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c3a9d> .
+ns1:Breloom	owl:sameAs	dbpedia:Breloom ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bf034> ,
+		ns3:breloom .
+ns1:Bronzong	owl:sameAs	ns3:bronzong ,
+		dbpedia:Bronzong .
+ns1:Bronzor	owl:sameAs	ns3:bronzor ,
+		dbpedia:Bronzor .
+ns1:Budew	owl:sameAs	ns3:budew ,
+		dbpedia:Budew ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eeee69> .
+ns1:Buizel	owl:sameAs	ns3:buizel ,
+		dbpedia:Buizel ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000acb43e> .
+ns1:Bulbasaur	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000012e27a> ,
+		ns3:bulbasaur ,
+		dbpedia:Bulbasaur .
+ns1:Buneary	owl:sameAs	ns3:buneary ,
+		dbpedia:Buneary ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f36238> .
+ns1:Burmy	owl:sameAs	ns3:burmy ,
+		dbpedia:Burmy ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eef6b0> .
+ns1:Butterfree	owl:sameAs	ns3:butterfree ,
+		dbpedia:Butterfree ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001cfce4> .
+ns1:Cacnea	owl:sameAs	ns3:cacnea ,
+		dbpedia:Cacnea ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000049ac47> .
+ns1:Cacturne	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c25f2> ,
+		ns3:cacturne ,
+		dbpedia:Cacturne .
+ns1:Camerupt	owl:sameAs	dbpedia:Camerupt ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1db2> ,
+		ns3:camerupt .
+ns1:Carnivine	owl:sameAs	ns3:carnivine ,
+		dbpedia:Carnivine ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eef6bc> .
+ns1:Carvanha	owl:sameAs	ns3:carvanha ,
+		dbpedia:Carvanha ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1cec> .
+ns1:Cascoon	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bcfae> ,
+		ns3:cascoon ,
+		dbpedia:Cascoon .
+ns1:Castform	owl:sameAs	dbpedia:Castform ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044b9e0> ,
+		ns3:castform .
+ns1:Caterpie	owl:sameAs	ns3:caterpie ,
+		dbpedia:Caterpie ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001cee97> .
+ns1:Celebi	owl:sameAs	ns3:celebi ,
+		dbpedia:Celebi ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002597be> .
+ns1:Chansey	owl:sameAs	ns3:chansey ,
+		dbpedia:Chansey ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001310f3> .
+ns1:Charizard	owl:sameAs	ns3:charizard ,
+		dbpedia:Charizard ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000004c8ab> .
+ns1:Charmander	owl:sameAs	ns3:charmander ,
+		dbpedia:Charmander ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000000726e8> .
+ns1:Charmeleon	owl:sameAs	ns3:charmeleon ,
+		dbpedia:Charmeleon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001af9e3> .
+ns1:Chatot	owl:sameAs	ns3:chatot ,
+		dbpedia:Chatot .
+ns1:Cherrim	owl:sameAs	ns3:cherrim ,
+		dbpedia:Cherrim ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000ef98a1> .
+ns1:Cherubi	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045ddab3> ,
+		ns3:cherubi ,
+		dbpedia:Cherubi .
+ns1:Chikorita	owl:sameAs	dbpedia:Chikorita ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c039f> ,
+		ns3:chikorita .
+ns1:Chimchar	owl:sameAs	dbpedia:Chimchar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000df7d0f> ,
+		ns3:chimchar .
+ns1:Chimecho	owl:sameAs	ns3:chimecho ,
+		dbpedia:Chimecho ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020d7a6> .
+ns1:Chinchou	owl:sameAs	ns3:chinchou ,
+		dbpedia:Chinchou ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001babb7> .
+ns1:Chingling	owl:sameAs	ns3:chingling ,
+		dbpedia:Chingling .
+ns1:Clamperl	owl:sameAs	ns3:clamperl ,
+		dbpedia:Clamperl ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c9c48> .
+ns1:Claydol	owl:sameAs	ns3:claydol ,
+		dbpedia:Claydol ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020c9e8> .
+ns1:Clefable	owl:sameAs	ns3:clefable ,
+		dbpedia:Clefable ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044c6a3> .
+ns1:Clefairy	owl:sameAs	ns3:clefairy ,
+		dbpedia:Clefairy ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002cb8f5> .
+ns1:Cleffa	owl:sameAs	ns3:cleffa ,
+		dbpedia:Cleffa ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000254a1d> .
+ns1:Cloyster	owl:sameAs	ns3:cloyster ,
+		dbpedia:Cloyster ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000345127> .
+ns1:Combee	owl:sameAs	ns3:combee ,
+		dbpedia:Combee ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d246d> .
+ns1:Combusken	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000318412> ,
+		ns3:combusken ,
+		dbpedia:Combusken .
+ns1:Corphish	owl:sameAs	dbpedia:Corphish ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000026feb4> ,
+		ns3:corphish .
+ns1:Corsola	owl:sameAs	ns3:corsola ,
+		dbpedia:Corsola ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000230a2b> .
+ns1:Cradily	owl:sameAs	ns3:cradily ,
+		dbpedia:Cradily ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c42d4> .
+ns1:Cranidos	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eef2e4> ,
+		ns3:cranidos ,
+		dbpedia:Cranidos .
+ns1:Crawdaunt	owl:sameAs	dbpedia:Crawdaunt ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000026fec3> ,
+		ns3:crawdaunt .
+ns1:Cresselia	owl:sameAs	ns3:cresselia ,
+		dbpedia:Cresselia .
+ns1:Croagunk	owl:sameAs	ns3:croagunk ,
+		dbpedia:Croagunk ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000004603846> .
+ns1:Crobat	owl:sameAs	ns3:crobat ,
+		dbpedia:Crobat ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595976> .
+ns1:Croconaw	owl:sameAs	ns3:croconaw ,
+		dbpedia:Croconaw ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000589661> .
+ns1:Cubone	owl:sameAs	ns3:cubone ,
+		dbpedia:Cubone ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004be7a2> .
+ns1:Cyndaquil	owl:sameAs	ns3:cyndaquil ,
+		dbpedia:Cyndaquil ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c049a> .
+ns1:Darkrai	owl:sameAs	ns3:darkrai ,
+		dbpedia:Darkrai ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d7d1e2> .
+ns1:Delcatty	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000367243> ,
+		ns3:delcatty ,
+		dbpedia:Delcatty .
+ns1:Delibird	owl:sameAs	dbpedia:Delibird ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000484a02> ,
+		ns3:delibird .
+ns1:Deoxys	owl:sameAs	ns3:deoxys ,
+		dbpedia:Deoxys ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000223771> .
+ns1:Dewgong	owl:sameAs	ns3:dewgong ,
+		dbpedia:Dewgong ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005834bb> .
+ns1:Dialga	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d6a124> ,
+		ns3:dialga ,
+		dbpedia:Dialga .
+ns1:Ditto	owl:sameAs	dbpedia:Ditto ,
+		ns3:ditto .
+ns1:Dodrio	owl:sameAs	dbpedia:Dodrio ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583459> ,
+		ns3:dodrio .
+ns1:Doduo	owl:sameAs	ns3:doduo ,
+		dbpedia:Doduo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583436> .
+ns1:Donphan	owl:sameAs	ns3:donphan ,
+		dbpedia:Donphan ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9f57> .
+ns1:Dragonair	owl:sameAs	ns3:dragonair ,
+		dbpedia:Dragonair ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000181982> .
+ns1:Dragonite	owl:sameAs	dbpedia:Dragonite ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000405181> ,
+		ns3:dragonite .
+ns1:Drapion	owl:sameAs	ns3:drapion ,
+		dbpedia:Drapion ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d779a9> .
+ns1:Dratini	owl:sameAs	ns3:dratini ,
+		dbpedia:Dratini ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000033f61b> .
+ns1:Drifblim	owl:sameAs	ns3:drifblim ,
+		dbpedia:Drifblim .
+ns1:Drifloon	owl:sameAs	ns3:drifloon ,
+		dbpedia:Drifloon .
+ns1:Drowzee	owl:sameAs	ns3:drowzee ,
+		dbpedia:Drowzee ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005836a0> .
+ns1:Dunsparce	owl:sameAs	ns3:dunsparce ,
+		dbpedia:Dunsparce ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000033fc9d> .
+ns1:Dusclops	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c9850> ,
+		ns3:dusclops ,
+		dbpedia:Dusclops .
+ns1:Dusknoir	owl:sameAs	dbpedia:Dusknoir ,
+		ns3:dusknoir .
+ns1:Duskull	owl:sameAs	dbpedia:Duskull ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000030dedd> ,
+		ns3:duskull .
+ns1:Dustox	owl:sameAs	ns3:dustox ,
+		dbpedia:Dustox ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004bdd0b> .
+ns1:Eevee	owl:sameAs	ns3:eevee ,
+		dbpedia:Eevee ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001f4b2a> .
+ns1:Ekans	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000269012> ,
+		ns3:ekans ,
+		dbpedia:Ekans .
+ns1:Electabuzz	owl:sameAs	dbpedia:Electabuzz ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000442392> ,
+		ns3:electabuzz .
+ns1:Electivire	owl:sameAs	ns3:electivire ,
+		dbpedia:Electivire ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000df7cc9> .
+ns1:Electrike	owl:sameAs	ns3:electrike ,
+		dbpedia:Electrike ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1c3c> .
+ns1:Electrode	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000015a29> ,
+		ns3:electrode ,
+		dbpedia:Electrode .
+ns1:Elekid	owl:sameAs	ns3:elekid ,
+		dbpedia:Elekid ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bc3fb> .
+ns1:Empoleon	owl:sameAs	dbpedia:Empoleon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f3f166> ,
+		ns3:empoleon .
+ns1:Entei	owl:sameAs	ns3:entei ,
+		dbpedia:Entei .
+ns1:Espeon	owl:sameAs	ns3:espeon ,
+		dbpedia:Espeon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000261016> .
+ns1:Exeggcute	owl:sameAs	ns3:exeggcute ,
+		dbpedia:Exeggcute ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583efa> .
+ns1:Exploud	owl:sameAs	ns3:exploud ,
+		dbpedia:Exploud .
+<http://example.com/pokemon/Farfetch%27d>	owl:sameAs	<https://demo.triply.cc/academy/pokemon/id/pokemon/farfetch\u0027d> ,
+		<http://dbpedia.org/resource/Farfetch%27d> ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583413> .
+ns1:Fearow	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000056dd2bf> ,
+		ns3:fearow ,
+		dbpedia:Fearow .
+ns1:Feebas	owl:sameAs	dbpedia:Feebas ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000342287> ,
+		ns3:feebas .
+ns1:Feraligatr	owl:sameAs	ns3:feraligatr ,
+		dbpedia:Feraligatr ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059561d> .
+ns1:Finneon	owl:sameAs	ns3:finneon ,
+		dbpedia:Finneon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000004603901> .
+ns1:Flaaffy	owl:sameAs	ns3:flaaffy ,
+		dbpedia:Flaaffy ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000561886> .
+ns1:Flareon	owl:sameAs	ns3:flareon ,
+		dbpedia:Flareon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000026ece2> .
+ns1:Floatzel	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045da0e3> ,
+		ns3:floatzel ,
+		dbpedia:Floatzel .
+ns1:Flygon	owl:sameAs	ns3:flygon ,
+		dbpedia:Flygon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000042c990> .
+ns1:Forretress	owl:sameAs	ns3:forretress ,
+		dbpedia:Forretress ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005962ce> .
+ns1:Froslass	owl:sameAs	dbpedia:Froslass ,
+		ns3:froslass .
+ns1:Furret	owl:sameAs	dbpedia:Furret ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059564e> ,
+		ns3:furret .
+ns1:Gabite	owl:sameAs	ns3:gabite ,
+		dbpedia:Gabite ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045f6744> .
+ns1:Gallade	owl:sameAs	ns3:gallade ,
+		dbpedia:Gallade .
+ns1:Garchomp	owl:sameAs	ns3:garchomp ,
+		dbpedia:Garchomp ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045db1e2> .
+ns1:Gardevoir	owl:sameAs	ns3:gardevoir ,
+		dbpedia:Gardevoir ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004f9696> .
+ns1:Gastly	owl:sameAs	dbpedia:Gastly ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005728a43> ,
+		ns3:gastly .
+ns1:Gastrodon	owl:sameAs	ns3:gastrodon ,
+		dbpedia:Gastrodon .
+ns1:Gengar	owl:sameAs	ns3:gengar ,
+		dbpedia:Gengar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005728a43> .
+ns1:Gible	owl:sameAs	ns3:gible ,
+		dbpedia:Gible ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045f670d> .
+ns1:Girafarig	owl:sameAs	ns3:girafarig ,
+		dbpedia:Girafarig ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003f2703> .
+ns1:Giratina	owl:sameAs	ns3:giratina ,
+		dbpedia:Giratina .
+ns1:Glaceon	owl:sameAs	ns3:glaceon ,
+		dbpedia:Glaceon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004b19ca> .
+ns1:Glalie	owl:sameAs	dbpedia:Glalie ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c9bf5> ,
+		ns3:glalie .
+ns1:Glameow	owl:sameAs	ns3:glameow ,
+		dbpedia:Glameow ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f360b7> .
+ns1:Gligar	owl:sameAs	ns3:gligar ,
+		dbpedia:Gligar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005962e6> .
+ns1:Gliscor	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045e0deb> ,
+		ns3:gliscor ,
+		dbpedia:Gliscor .
+ns1:Gloom	owl:sameAs	ns3:gloom ,
+		dbpedia:Gloom .
+ns1:Golbat	owl:sameAs	dbpedia:Golbat ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003a9186> ,
+		ns3:golbat .
+ns1:Goldeen	owl:sameAs	dbpedia:Goldeen ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020f9bd> ,
+		ns3:goldeen .
+ns1:Golduck	owl:sameAs	ns3:golduck ,
+		dbpedia:Golduck ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000046a11f> .
+ns1:Gorebyss	owl:sameAs	ns3:gorebyss ,
+		dbpedia:Gorebyss ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c9c85> .
+ns1:Granbull	owl:sameAs	ns3:granbull ,
+		dbpedia:Granbull ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000596f81> .
+ns1:Grotle	owl:sameAs	ns3:grotle ,
+		dbpedia:Grotle ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f3c607> .
+ns1:Groudon	owl:sameAs	dbpedia:Groudon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000269e42> ,
+		ns3:groudon .
+ns1:Grovyle	owl:sameAs	ns3:grovyle ,
+		dbpedia:Grovyle ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bc83c> .
+ns1:Growlithe	owl:sameAs	ns3:growlithe ,
+		dbpedia:Growlithe ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058060b> .
+ns1:Grumpig	owl:sameAs	ns3:grumpig ,
+		dbpedia:Grumpig ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1e1b> .
+ns1:Gulpin	owl:sameAs	dbpedia:Gulpin ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004bea08> ,
+		ns3:gulpin .
+ns1:Gyarados	owl:sameAs	ns3:gyarados ,
+		dbpedia:Gyarados ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003889b8> .
+ns1:Happiny	owl:sameAs	ns3:happiny ,
+		dbpedia:Happiny ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eeee80> .
+ns1:Hariyama	owl:sameAs	ns3:hariyama ,
+		dbpedia:Hariyama ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bf818> .
+ns1:Haunter	owl:sameAs	dbpedia:Haunter ,
+		ns3:haunter ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005728a43> .
+ns1:Heatran	owl:sameAs	ns3:heatran ,
+		dbpedia:Heatran .
+ns1:Heracross	owl:sameAs	ns3:heracross ,
+		dbpedia:Heracross ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059b32c> .
+ns1:Hippopotas	owl:sameAs	dbpedia:Hippopotas ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045dde1a> ,
+		ns3:hippopotas .
+ns1:Hippowdon	owl:sameAs	ns3:hippowdon ,
+		dbpedia:Hippowdon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045db5c1> .
+ns1:Hitmonchan	owl:sameAs	ns3:hitmonchan ,
+		dbpedia:Hitmonchan ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583ff9> .
+ns1:Hitmonlee	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583fa1> ,
+		ns3:hitmonlee ,
+		dbpedia:Hitmonlee .
+ns1:Hitmontop	owl:sameAs	dbpedia:Hitmontop ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003f21ea> ,
+		ns3:hitmontop .
+ns1:Honchkrow	owl:sameAs	ns3:honchkrow ,
+		dbpedia:Honchkrow .
+ns1:Hoothoot	owl:sameAs	ns3:hoothoot ,
+		dbpedia:Hoothoot ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000036f241> .
+ns1:Hoppip	owl:sameAs	ns3:hoppip ,
+		dbpedia:Hoppip ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595ce3> .
+ns1:Horsea	owl:sameAs	ns3:horsea ,
+		dbpedia:Horsea .
+ns1:Houndoom	owl:sameAs	ns3:houndoom ,
+		dbpedia:Houndoom ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9e84> .
+ns1:Houndour	owl:sameAs	ns3:houndour ,
+		dbpedia:Houndour ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9e75> .
+ns1:Huntail	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c9c6d> ,
+		ns3:huntail ,
+		dbpedia:Huntail .
+ns1:Hypno	owl:sameAs	dbpedia:Hypno ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003c1cf7> ,
+		ns3:hypno .
+ns1:Igglybuff	owl:sameAs	dbpedia:Igglybuff ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c1560> ,
+		ns3:igglybuff .
+ns1:Illumise	owl:sameAs	dbpedia:Illumise ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000485b5b> ,
+		ns3:illumise .
+ns1:Infernape	owl:sameAs	ns3:infernape ,
+		dbpedia:Infernape ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f3e5c6> .
+ns1:Ivysaur	owl:sameAs	ns3:ivysaur ,
+		dbpedia:Ivysaur ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000012e289> .
+ns1:Jigglypuff	owl:sameAs	ns3:jigglypuff ,
+		dbpedia:Jigglypuff ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001bfb56> .
+ns1:Jirachi	owl:sameAs	ns3:jirachi ,
+		dbpedia:Jirachi ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001d9ca4> .
+ns1:Jolteon	owl:sameAs	ns3:jolteon ,
+		dbpedia:Jolteon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001f4b5f> .
+ns1:Jumpluff	owl:sameAs	ns3:jumpluff ,
+		dbpedia:Jumpluff ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595d2f> .
+ns1:Jynx	owl:sameAs	ns3:jynx ,
+		dbpedia:Jynx ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000051b5b4> .
+ns1:Kabuto	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003838c5> ,
+		ns3:kabuto ,
+		dbpedia:Kabuto .
+ns1:Kabutops	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004fef02> ,
+		ns3:kabutops ,
+		dbpedia:Kabutops .
+ns1:Kadabra	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003ef43e> ,
+		ns3:kadabra ,
+		dbpedia:Kadabra .
+ns1:Kakuna	owl:sameAs	ns3:kakuna ,
+		dbpedia:Kakuna ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001cfd88> .
+ns1:Kangaskhan	owl:sameAs	ns3:kangaskhan ,
+		dbpedia:Kangaskhan ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002d4210> .
+ns1:Kecleon	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020ca51> ,
+		ns3:kecleon ,
+		dbpedia:Kecleon .
+ns1:Kingdra	owl:sameAs	dbpedia:Kingdra ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9eab> ,
+		ns3:kingdra .
+ns1:Kingler	owl:sameAs	dbpedia:Kingler ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583e9f> ,
+		ns3:kingler .
+ns1:Kirlia	owl:sameAs	ns3:kirlia ,
+		dbpedia:Kirlia ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000055e4f0> .
+ns1:Koffing	owl:sameAs	ns3:koffing ,
+		dbpedia:Koffing ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585bdf> .
+ns1:Krabby	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583e85> ,
+		ns3:krabby ,
+		dbpedia:Krabby .
+ns1:Kricketot	owl:sameAs	ns3:kricketot ,
+		dbpedia:Kricketot ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d9e7f3> .
+ns1:Kricketune	owl:sameAs	ns3:kricketune ,
+		dbpedia:Kricketune ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d9326> .
+ns1:Kyogre	owl:sameAs	ns3:kyogre ,
+		dbpedia:Kyogre ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002e97ab> .
+ns1:Lairon	owl:sameAs	ns3:lairon ,
+		dbpedia:Lairon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c0633> .
+ns1:Lanturn	owl:sameAs	ns3:lanturn ,
+		dbpedia:Lanturn ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000468ca8> .
+ns1:Lapras	owl:sameAs	ns3:lapras ,
+		dbpedia:Lapras ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002a11fe> .
+ns1:Larvitar	owl:sameAs	ns3:larvitar ,
+		dbpedia:Larvitar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000027b009> .
+ns1:Latias	owl:sameAs	ns3:latias ,
+		dbpedia:Latias ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002de307> .
+ns1:Latios	owl:sameAs	ns3:latios ,
+		dbpedia:Latios ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002de2f9> .
+ns1:Leafeon	owl:sameAs	ns3:leafeon ,
+		dbpedia:Leafeon .
+ns1:Ledian	owl:sameAs	ns3:ledian ,
+		dbpedia:Ledian .
+ns1:Ledyba	owl:sameAs	ns3:ledyba ,
+		dbpedia:Ledyba .
+ns1:Lickilicky	owl:sameAs	dbpedia:Lickilicky ,
+		ns3:lickilicky .
+ns1:Lickitung	owl:sameAs	dbpedia:Lickitung ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585bbb> ,
+		ns3:lickitung .
+ns1:Lileep	owl:sameAs	dbpedia:Lileep ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000031f63c> ,
+		ns3:lileep .
+ns1:Linoone	owl:sameAs	ns3:linoone ,
+		dbpedia:Linoone ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000501e81> .
+ns1:Lombre	owl:sameAs	ns3:lombre ,
+		dbpedia:Lombre ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bed31> .
+ns1:Lopunny	owl:sameAs	ns3:lopunny ,
+		dbpedia:Lopunny .
+ns1:Lotad	owl:sameAs	ns3:lotad ,
+		dbpedia:Lotad ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bd02d> .
+ns1:Loudred	owl:sameAs	ns3:loudred ,
+		dbpedia:Loudred .
+ns1:Lucario	owl:sameAs	ns3:lucario ,
+		dbpedia:Lucario ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000531502> .
+ns1:Ludicolo	owl:sameAs	dbpedia:Ludicolo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bed61> ,
+		ns3:ludicolo .
+ns1:Lugia	owl:sameAs	ns3:lugia ,
+		dbpedia:Lugia ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001efcb5> .
+ns1:Lumineon	owl:sameAs	ns3:lumineon ,
+		dbpedia:Lumineon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000004603959> .
+ns1:Lunatone	owl:sameAs	ns3:lunatone ,
+		dbpedia:Lunatone ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005724230> .
+ns1:Luvdisc	owl:sameAs	dbpedia:Luvdisc ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020ca9c> ,
+		ns3:luvdisc .
+ns1:Luxio	owl:sameAs	ns3:luxio ,
+		dbpedia:Luxio ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d937e> .
+ns1:Luxray	owl:sameAs	ns3:luxray ,
+		dbpedia:Luxray ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d93d6> .
+ns1:Machamp	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004d89d5> ,
+		ns3:machamp ,
+		dbpedia:Machamp .
+ns1:Machoke	owl:sameAs	dbpedia:Machoke ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004d89c7> ,
+		ns3:machoke .
+ns1:Machop	owl:sameAs	dbpedia:Machop ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004d89ac> ,
+		ns3:machop .
+ns1:Magby	owl:sameAs	dbpedia:Magby ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bc422> ,
+		ns3:magby .
+ns1:Magcargo	owl:sameAs	ns3:magcargo ,
+		dbpedia:Magcargo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000251655> .
+ns1:Magikarp	owl:sameAs	ns3:magikarp ,
+		dbpedia:Magikarp ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002406dc> .
+ns1:Magmar	owl:sameAs	ns3:magmar ,
+		dbpedia:Magmar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585c80> .
+ns1:Magmortar	owl:sameAs	ns3:magmortar ,
+		dbpedia:Magmortar .
+ns1:Magnemite	owl:sameAs	ns3:magnemite ,
+		dbpedia:Magnemite ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000572c646> .
+ns1:Magneton	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000572c646> ,
+		ns3:magneton ,
+		dbpedia:Magneton .
+ns1:Magnezone	owl:sameAs	ns3:magnezone ,
+		dbpedia:Magnezone ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000572c646> .
+ns1:Makuhita	owl:sameAs	ns3:makuhita ,
+		dbpedia:Makuhita ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004d4ec1> .
+ns1:Mamoswine	owl:sameAs	ns3:mamoswine ,
+		dbpedia:Mamoswine .
+ns1:Manaphy	owl:sameAs	dbpedia:Manaphy ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000ac4a11> ,
+		ns3:manaphy .
+ns1:Manectric	owl:sameAs	ns3:manectric ,
+		dbpedia:Manectric ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1c54> .
+ns1:Mankey	owl:sameAs	ns3:mankey ,
+		dbpedia:Mankey ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044d46b> .
+ns1:Mantine	owl:sameAs	ns3:mantine ,
+		dbpedia:Mantine ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9daa> .
+ns1:Mantyke	owl:sameAs	ns3:mantyke ,
+		dbpedia:Mantyke ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000ac7b9c> .
+ns1:Mareep	owl:sameAs	ns3:mareep ,
+		dbpedia:Mareep ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000056421e> .
+ns1:Marill	owl:sameAs	dbpedia:Marill ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c504a> ,
+		ns3:marill .
+ns1:Marshtomp	owl:sameAs	ns3:marshtomp ,
+		dbpedia:Marshtomp ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005aea51> .
+ns1:Masquerain	owl:sameAs	ns3:masquerain ,
+		dbpedia:Masquerain ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005befeb> .
+ns1:Mawile	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004be6f1> ,
+		ns3:mawile ,
+		dbpedia:Mawile .
+ns1:Medicham	owl:sameAs	dbpedia:Medicham ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c06d5> ,
+		ns3:medicham .
+ns1:Meditite	owl:sameAs	ns3:meditite ,
+		dbpedia:Meditite ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004bdcc5> .
+ns1:Meganium	owl:sameAs	ns3:meganium ,
+		dbpedia:Meganium ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000589542> .
+ns1:Mesprit	owl:sameAs	ns3:mesprit ,
+		dbpedia:Mesprit .
+ns1:Metagross	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005728778> ,
+		ns3:metagross ,
+		dbpedia:Metagross .
+ns1:Metang	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005728778> ,
+		ns3:metang ,
+		dbpedia:Metang .
+ns1:Metapod	owl:sameAs	ns3:metapod ,
+		dbpedia:Metapod ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001ceebc> .
+ns1:Mew	owl:sameAs	ns3:mew ,
+		dbpedia:Mew .
+ns1:Mewtwo	owl:sameAs	ns3:mewtwo ,
+		dbpedia:Mewtwo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000126ea5> .
+ns1:Mightyena	owl:sameAs	ns3:mightyena ,
+		dbpedia:Mightyena ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004bd715> .
+ns1:Milotic	owl:sameAs	ns3:milotic ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003422c2> ,
+		dbpedia:Milotic .
+ns1:Miltank	owl:sameAs	ns3:miltank ,
+		dbpedia:Miltank ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bc43b> .
+ns1:Minun	owl:sameAs	ns3:minun ,
+		dbpedia:Minun ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1c84> .
+ns1:Misdreavus	owl:sameAs	ns3:misdreavus ,
+		dbpedia:Misdreavus ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000042646d> .
+ns1:Mismagius	owl:sameAs	ns3:mismagius ,
+		dbpedia:Mismagius .
+ns1:Moltres	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001e7c13> ,
+		ns3:moltres ,
+		dbpedia:Moltres .
+ns1:Monferno	owl:sameAs	ns3:monferno ,
+		dbpedia:Monferno ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f3c654> .
+ns1:Mothim	owl:sameAs	dbpedia:Mothim ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d99c6> ,
+		ns3:mothim .
+ns1:Mudkip	owl:sameAs	ns3:mudkip ,
+		dbpedia:Mudkip ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c0aae> .
+ns1:Munchlax	owl:sameAs	ns3:munchlax ,
+		dbpedia:Munchlax ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000030d220> .
+ns1:Murkrow	owl:sameAs	ns3:murkrow ,
+		dbpedia:Murkrow ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000449bdf> .
+ns1:Natu	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000a1d559> ,
+		ns3:natu ,
+		dbpedia:Natu .
+ns1:Nidoking	owl:sameAs	ns3:nidoking ,
+		dbpedia:Nidoking ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000428e8c> .
+ns1:Nidoqueen	owl:sameAs	ns3:nidoqueen ,
+		dbpedia:Nidoqueen ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000265ec0> .
+ns1:Nidorina	owl:sameAs	ns3:nidorina ,
+		dbpedia:Nidorina ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002f8951> .
+ns1:Nidorino	owl:sameAs	ns3:nidorino ,
+		dbpedia:Nidorino ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000428d14> .
+ns1:Nincada	owl:sameAs	ns3:nincada ,
+		dbpedia:Nincada .
+ns1:Ninjask	owl:sameAs	ns3:ninjask ,
+		dbpedia:Ninjask .
+ns1:Noctowl	owl:sameAs	ns3:noctowl ,
+		dbpedia:Noctowl ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595673> .
+ns1:Nosepass	owl:sameAs	ns3:nosepass ,
+		dbpedia:Nosepass ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000250da6> .
+ns1:Numel	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1d8d> ,
+		ns3:numel ,
+		dbpedia:Numel .
+ns1:Nuzleaf	owl:sameAs	dbpedia:Nuzleaf ,
+		ns3:nuzleaf .
+ns1:Octillery	owl:sameAs	ns3:octillery ,
+		dbpedia:Octillery ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b99fc> .
+ns1:Oddish	owl:sameAs	ns3:oddish ,
+		dbpedia:Oddish ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004319aa> .
+ns1:Omanyte	owl:sameAs	ns3:omanyte ,
+		dbpedia:Omanyte ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001cfe8f> .
+ns1:Omastar	owl:sameAs	ns3:omastar ,
+		dbpedia:Omastar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585ff9> .
+ns1:Onix	owl:sameAs	ns3:onix ,
+		dbpedia:Onix .
+ns1:Pachirisu	owl:sameAs	ns3:pachirisu ,
+		dbpedia:Pachirisu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d69f7a> .
+ns1:Palkia	owl:sameAs	ns3:palkia ,
+		dbpedia:Palkia ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d6a173> .
+ns1:Paras	owl:sameAs	ns3:paras ,
+		dbpedia:Paras .
+ns1:Parasect	owl:sameAs	ns3:parasect ,
+		dbpedia:Parasect ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000043242d> .
+ns1:Pelipper	owl:sameAs	ns3:pelipper ,
+		dbpedia:Pelipper ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005befbc> .
+ns1:Phanpy	owl:sameAs	ns3:phanpy ,
+		dbpedia:Phanpy ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9f32> .
+ns1:Phione	owl:sameAs	ns3:phione ,
+		dbpedia:Phione .
+ns1:Pichu	owl:sameAs	ns3:pichu ,
+		dbpedia:Pichu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000718537> .
+ns1:Pidgeot	owl:sameAs	ns3:pidgeot ,
+		dbpedia:Pidgeot .
+ns1:Pidgeotto	owl:sameAs	ns3:pidgeotto ,
+		dbpedia:Pidgeotto .
+ns1:Pidgey	owl:sameAs	ns3:pidgey ,
+		dbpedia:Pidgey .
+ns1:Pikachu	owl:sameAs	ns3:pikachu ,
+		dbpedia:Pikachu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001a5f6a> .
+ns1:Piloswine	owl:sameAs	ns3:piloswine ,
+		dbpedia:Piloswine ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000054a6c5> .
+ns1:Pineco	owl:sameAs	ns3:pineco ,
+		dbpedia:Pineco ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005962b6> .
+ns1:Pinsir	owl:sameAs	ns3:pinsir ,
+		dbpedia:Pinsir ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585c8e> .
+ns1:Piplup	owl:sameAs	ns3:piplup ,
+		dbpedia:Piplup ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000df7d32> .
+ns1:Plusle	owl:sameAs	dbpedia:Plusle ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1c61> ,
+		ns3:plusle .
+ns1:Politoed	owl:sameAs	dbpedia:Politoed ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044ba8e> ,
+		ns3:politoed .
+ns1:Poliwag	owl:sameAs	ns3:poliwag ,
+		dbpedia:Poliwag ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000580624> .
+ns1:Poliwhirl	owl:sameAs	ns3:poliwhirl ,
+		dbpedia:Poliwhirl ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058063e> .
+ns1:Poliwrath	owl:sameAs	ns3:poliwrath ,
+		dbpedia:Poliwrath ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000580658> .
+ns1:Ponyta	owl:sameAs	ns3:ponyta ,
+		dbpedia:Ponyta ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583352> .
+ns1:Poochyena	owl:sameAs	ns3:poochyena ,
+		dbpedia:Poochyena ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000051b83c> .
+ns1:Porygon	owl:sameAs	ns3:porygon ,
+		dbpedia:Porygon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005711811> .
+ns1:Porygon2	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005711811> ,
+		ns3:porygon2 ,
+		dbpedia:Porygon2 .
+ns1:Primeape	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000522efc> ,
+		ns3:primeape ,
+		dbpedia:Primeape .
+ns1:Prinplup	owl:sameAs	ns3:prinplup ,
+		dbpedia:Prinplup ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d6f18> .
+ns1:Probopass	owl:sameAs	ns3:probopass ,
+		dbpedia:Probopass .
+ns1:Psyduck	owl:sameAs	ns3:psyduck ,
+		dbpedia:Psyduck ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000025ddce> .
+ns1:Pupitar	owl:sameAs	ns3:pupitar ,
+		dbpedia:Pupitar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000027b021> .
+ns1:Purugly	owl:sameAs	ns3:purugly ,
+		dbpedia:Purugly .
+ns1:Quagsire	owl:sameAs	ns3:quagsire ,
+		dbpedia:Quagsire ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058ea15> .
+ns1:Quilava	owl:sameAs	dbpedia:Quilava ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000382be3> ,
+		ns3:quilava .
+ns1:Qwilfish	owl:sameAs	ns3:qwilfish ,
+		dbpedia:Qwilfish ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059b2fe> .
+ns1:Raikou	owl:sameAs	dbpedia:Raikou ,
+		ns3:raikou .
+ns1:Ralts	owl:sameAs	ns3:ralts ,
+		dbpedia:Ralts ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000425b45> .
+ns1:Rampardos	owl:sameAs	ns3:rampardos ,
+		dbpedia:Rampardos ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d96d9> .
+ns1:Rapidash	owl:sameAs	ns3:rapidash ,
+		dbpedia:Rapidash ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058336b> .
+ns1:Rayquaza	owl:sameAs	ns3:rayquaza ,
+		dbpedia:Rayquaza ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020dc5e> .
+ns1:Regice	owl:sameAs	ns3:regice ,
+		dbpedia:Regice ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044b98b> .
+ns1:Regigigas	owl:sameAs	ns3:regigigas ,
+		dbpedia:Regigigas .
+ns1:Regirock	owl:sameAs	ns3:regirock ,
+		dbpedia:Regirock ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002760e6> .
+ns1:Registeel	owl:sameAs	dbpedia:Registeel ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044b796> ,
+		ns3:registeel .
+ns1:Relicanth	owl:sameAs	ns3:relicanth ,
+		dbpedia:Relicanth ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002bfbc1> .
+ns1:Remoraid	owl:sameAs	ns3:remoraid ,
+		dbpedia:Remoraid ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b99d8> .
+ns1:Rhydon	owl:sameAs	ns3:rhydon ,
+		dbpedia:Rhydon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000050118b> .
+ns1:Rhyhorn	owl:sameAs	ns3:rhyhorn ,
+		dbpedia:Rhyhorn ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585bee> .
+ns1:Rhyperior	owl:sameAs	ns3:rhyperior ,
+		dbpedia:Rhyperior .
+ns1:Riolu	owl:sameAs	ns3:riolu ,
+		dbpedia:Riolu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045dd8f9> .
+ns1:Roselia	owl:sameAs	ns3:roselia ,
+		dbpedia:Roselia ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044ba6b> .
+ns1:Roserade	owl:sameAs	dbpedia:Roserade ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000d99952> ,
+		ns3:roserade .
+ns1:Rotom	owl:sameAs	ns3:rotom ,
+		dbpedia:Rotom .
+ns1:Sableye	owl:sameAs	ns3:sableye ,
+		dbpedia:Sableye ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000449c8b> .
+ns1:Salamence	owl:sameAs	ns3:salamence ,
+		dbpedia:Salamence ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c9d03> .
+ns1:Sceptile	owl:sameAs	ns3:sceptile ,
+		dbpedia:Sceptile ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000037dd82> .
+ns1:Scizor	owl:sameAs	ns3:scizor ,
+		dbpedia:Scizor ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004bda1a> .
+ns1:Scyther	owl:sameAs	ns3:scyther ,
+		dbpedia:Scyther ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000415365> .
+ns1:Seadra	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c264a> ,
+		ns3:seadra ,
+		dbpedia:Seadra .
+ns1:Seaking	owl:sameAs	ns3:seaking ,
+		dbpedia:Seaking .
+ns1:Sealeo	owl:sameAs	ns3:sealeo ,
+		dbpedia:Sealeo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020c9ac> .
+ns1:Seedot	owl:sameAs	ns3:seedot ,
+		dbpedia:Seedot ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bed79> .
+ns1:Seel	owl:sameAs	dbpedia:Seel ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583487> ,
+		ns3:seel .
+ns1:Sentret	owl:sameAs	ns3:sentret ,
+		dbpedia:Sentret ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595640> .
+ns1:Seviper	owl:sameAs	ns3:seviper ,
+		dbpedia:Seviper ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004447e1> .
+ns1:Sharpedo	owl:sameAs	ns3:sharpedo ,
+		dbpedia:Sharpedo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002f2a11> .
+ns1:Shaymin	owl:sameAs	ns3:shaymin ,
+		dbpedia:Shaymin .
+ns1:Shedinja	owl:sameAs	ns3:shedinja ,
+		dbpedia:Shedinja .
+ns1:Shelgon	owl:sameAs	ns3:shelgon ,
+		dbpedia:Shelgon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000057cfff> .
+ns1:Shellder	owl:sameAs	dbpedia:Shellder ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000583514> ,
+		ns3:shellder .
+ns1:Shellos	owl:sameAs	dbpedia:Shellos ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f3f2af> ,
+		ns3:shellos .
+ns1:Shieldon	owl:sameAs	ns3:shieldon ,
+		dbpedia:Shieldon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d06b8> .
+ns1:Shiftry	owl:sameAs	ns3:shiftry ,
+		dbpedia:Shiftry ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005befa3> .
+ns1:Shinx	owl:sameAs	ns3:shinx ,
+		dbpedia:Shinx ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000eeec20> .
+ns1:Shroomish	owl:sameAs	ns3:shroomish ,
+		dbpedia:Shroomish ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005beff8> .
+ns1:Shuckle	owl:sameAs	ns3:shuckle ,
+		dbpedia:Shuckle ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002dc297> .
+ns1:Shuppet	owl:sameAs	ns3:shuppet ,
+		dbpedia:Shuppet ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020ca27> .
+ns1:Silcoon	owl:sameAs	dbpedia:Silcoon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bcf75> ,
+		ns3:silcoon .
+ns1:Skarmory	owl:sameAs	ns3:skarmory ,
+		dbpedia:Skarmory ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005b9dfd> .
+ns1:Skiploom	owl:sameAs	ns3:skiploom ,
+		dbpedia:Skiploom ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595d0c> .
+ns1:Skitty	owl:sameAs	ns3:skitty ,
+		dbpedia:Skitty ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000300eba> .
+ns1:Skorupi	owl:sameAs	ns3:skorupi ,
+		dbpedia:Skorupi ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045dde7d> .
+ns1:Skuntank	owl:sameAs	ns3:skuntank ,
+		dbpedia:Skuntank .
+ns1:Slaking	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004904bc> ,
+		ns3:slaking ,
+		dbpedia:Slaking .
+ns1:Slakoth	owl:sameAs	dbpedia:Slakoth ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bf062> ,
+		ns3:slakoth .
+ns1:Slowbro	owl:sameAs	ns3:slowbro ,
+		dbpedia:Slowbro ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005833bf> .
+ns1:Slowking	owl:sameAs	ns3:slowking ,
+		dbpedia:Slowking .
+ns1:Slowpoke	owl:sameAs	ns3:slowpoke ,
+		dbpedia:Slowpoke ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058339a> .
+ns1:Slugma	owl:sameAs	ns3:slugma ,
+		dbpedia:Slugma ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059bb28> .
+ns1:Smeargle	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058ef22> ,
+		ns3:smeargle ,
+		dbpedia:Smeargle .
+ns1:Smoochum	owl:sameAs	ns3:smoochum ,
+		dbpedia:Smoochum ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000058767c> .
+ns1:Sneasel	owl:sameAs	ns3:sneasel ,
+		dbpedia:Sneasel .
+ns1:Snorlax	owl:sameAs	ns3:snorlax ,
+		dbpedia:Snorlax ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000259806> .
+ns1:Snorunt	owl:sameAs	ns3:snorunt ,
+		dbpedia:Snorunt ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059ca50> .
+ns1:Snover	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d7a05> ,
+		ns3:snover ,
+		dbpedia:Snover .
+ns1:Snubbull	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004be717> ,
+		ns3:snubbull ,
+		dbpedia:Snubbull .
+ns1:Solrock	owl:sameAs	ns3:solrock ,
+		dbpedia:Solrock ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000005724230> .
+ns1:Spearow	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000056dd2bf> ,
+		ns3:spearow ,
+		dbpedia:Spearow .
+ns1:Spheal	owl:sameAs	ns3:spheal ,
+		dbpedia:Spheal ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020c98f> .
+ns1:Spinarak	owl:sameAs	ns3:spinarak ,
+		dbpedia:Spinarak ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059593b> .
+ns1:Spinda	owl:sameAs	ns3:spinda ,
+		dbpedia:Spinda ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1e33> .
+ns1:Spiritomb	owl:sameAs	ns3:spiritomb ,
+		dbpedia:Spiritomb ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045f27c2> .
+ns1:Spoink	owl:sameAs	ns3:spoink ,
+		dbpedia:Spoink ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004ef1bc> .
+ns1:Squirtle	owl:sameAs	ns3:squirtle ,
+		dbpedia:Squirtle ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000012ec62> .
+ns1:Stantler	owl:sameAs	ns3:stantler ,
+		dbpedia:Stantler ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bc3ba> .
+ns1:Staraptor	owl:sameAs	ns3:staraptor ,
+		dbpedia:Staraptor ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d90dd> .
+ns1:Staravia	owl:sameAs	ns3:staravia ,
+		dbpedia:Staravia ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d74b1> .
+ns1:Starly	owl:sameAs	ns3:starly ,
+		dbpedia:Starly ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000e1d46a> .
+ns1:Starmie	owl:sameAs	ns3:starmie ,
+		dbpedia:Starmie ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002250ae> .
+ns1:Staryu	owl:sameAs	ns3:staryu ,
+		dbpedia:Staryu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002250c7> .
+ns1:Steelix	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000027b050> ,
+		ns3:steelix ,
+		dbpedia:Steelix .
+ns1:Stunky	owl:sameAs	ns3:stunky ,
+		dbpedia:Stunky ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045f4364> .
+ns1:Sudowoodo	owl:sameAs	ns3:sudowoodo ,
+		dbpedia:Sudowoodo ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000389189> .
+ns1:Suicune	owl:sameAs	ns3:suicune ,
+		dbpedia:Suicune ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c5792> .
+ns1:Sunflora	owl:sameAs	ns3:sunflora ,
+		dbpedia:Sunflora ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595d6a> .
+ns1:Sunkern	owl:sameAs	ns3:sunkern ,
+		dbpedia:Sunkern ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595d5d> .
+ns1:Surskit	owl:sameAs	ns3:surskit ,
+		dbpedia:Surskit ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000057cf0c> .
+ns1:Swablu	owl:sameAs	ns3:swablu ,
+		dbpedia:Swablu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001e47d9> .
+ns1:Swalot	owl:sameAs	dbpedia:Swalot ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585aaf> ,
+		ns3:swalot .
+ns1:Swampert	owl:sameAs	ns3:swampert ,
+		dbpedia:Swampert ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003a74bd> .
+ns1:Swellow	owl:sameAs	ns3:swellow ,
+		dbpedia:Swellow ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003442e6> .
+ns1:Swinub	owl:sameAs	ns3:swinub ,
+		dbpedia:Swinub ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059bb40> .
+ns1:Taillow	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000337e03> ,
+		ns3:taillow ,
+		dbpedia:Taillow .
+ns1:Tangela	owl:sameAs	ns3:tangela ,
+		dbpedia:Tangela ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000522e67> .
+ns1:Tangrowth	owl:sameAs	ns3:tangrowth ,
+		dbpedia:Tangrowth .
+ns1:Tauros	owl:sameAs	ns3:tauros ,
+		dbpedia:Tauros ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003889e6> .
+ns1:Teddiursa	owl:sameAs	ns3:teddiursa ,
+		dbpedia:Teddiursa ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000059b3f1> .
+ns1:Tentacool	owl:sameAs	ns3:tentacool ,
+		dbpedia:Tentacool ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000580fce> .
+ns1:Tentacruel	owl:sameAs	ns3:tentacruel ,
+		dbpedia:Tentacruel ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000580ff4> .
+ns1:Togekiss	owl:sameAs	ns3:togekiss ,
+		dbpedia:Togekiss .
+ns1:Togepi	owl:sameAs	ns3:togepi ,
+		dbpedia:Togepi ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c15af> .
+ns1:Togetic	owl:sameAs	ns3:togetic ,
+		dbpedia:Togetic ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002ca31c> .
+ns1:Torchic	owl:sameAs	dbpedia:Torchic ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c08be> ,
+		ns3:torchic .
+ns1:Torkoal	owl:sameAs	ns3:torkoal ,
+		dbpedia:Torkoal ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044bb0a> .
+ns1:Torterra	owl:sameAs	ns3:torterra ,
+		dbpedia:Torterra ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000f3e542> .
+ns1:Totodile	owl:sameAs	ns3:totodile ,
+		dbpedia:Totodile ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c054c> .
+ns1:Toxicroak	owl:sameAs	ns3:toxicroak ,
+		dbpedia:Toxicroak ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000004603872> .
+ns1:Trapinch	owl:sameAs	ns3:trapinch ,
+		dbpedia:Trapinch ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1e56> .
+ns1:Treecko	owl:sameAs	ns3:treecko ,
+		dbpedia:Treecko ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c0972> .
+ns1:Tropius	owl:sameAs	ns3:tropius ,
+		dbpedia:Tropius ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000211860> .
+ns1:Turtwig	owl:sameAs	ns3:turtwig ,
+		dbpedia:Turtwig ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000df7cec> .
+ns1:Typhlosion	owl:sameAs	ns3:typhlosion ,
+		dbpedia:Typhlosion ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000438b2b> .
+ns1:Tyranitar	owl:sameAs	ns3:tyranitar ,
+		dbpedia:Tyranitar ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003b7ea5> .
+ns1:Tyrogue	owl:sameAs	ns3:tyrogue ,
+		dbpedia:Tyrogue ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bc3eb> .
+ns1:Umbreon	owl:sameAs	ns3:umbreon ,
+		dbpedia:Umbreon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000260f5f> .
+ns1:Unown	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000260fa6> ,
+		ns3:unown ,
+		dbpedia:Unown .
+ns1:Ursaring	owl:sameAs	dbpedia:Ursaring ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585813> ,
+		ns3:ursaring .
+ns1:Uxie	owl:sameAs	ns3:uxie ,
+		dbpedia:Uxie .
+ns1:Vaporeon	owl:sameAs	ns3:vaporeon ,
+		dbpedia:Vaporeon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001f4b38> .
+ns1:Venomoth	owl:sameAs	ns3:venomoth ,
+		dbpedia:Venomoth ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000433ea0> .
+ns1:Venonat	owl:sameAs	ns3:venonat ,
+		dbpedia:Venonat ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000433e50> .
+ns1:Venusaur	owl:sameAs	ns3:venusaur ,
+		dbpedia:Venusaur ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000012e298> .
+ns1:Vespiquen	owl:sameAs	ns3:vespiquen ,
+		dbpedia:Vespiquen ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d99fd> .
+ns1:Vibrava	owl:sameAs	ns3:vibrava ,
+		dbpedia:Vibrava ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000042c9bf> .
+ns1:Victreebel	owl:sameAs	ns3:victreebel ,
+		dbpedia:Victreebel ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000033fd86> .
+ns1:Vigoroth	owl:sameAs	ns3:vigoroth ,
+		dbpedia:Vigoroth ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005bf07c> .
+ns1:Vileplume	owl:sameAs	ns3:vileplume ,
+		dbpedia:Vileplume ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000004323af> .
+ns1:Volbeat	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000e7afdb> ,
+		ns3:volbeat ,
+		dbpedia:Volbeat .
+ns1:Voltorb	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000048cd48> ,
+		ns3:voltorb ,
+		dbpedia:Voltorb .
+ns1:Wailmer	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005c1d48> ,
+		ns3:wailmer ,
+		dbpedia:Wailmer .
+ns1:Wailord	owl:sameAs	ns3:wailord ,
+		dbpedia:Wailord ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002c3d58> .
+ns1:Walrein	owl:sameAs	ns3:walrein ,
+		dbpedia:Walrein ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020ca42> .
+ns1:Wartortle	owl:sameAs	ns3:wartortle ,
+		dbpedia:Wartortle ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001be388> .
+ns1:Weavile	owl:sameAs	ns3:weavile ,
+		dbpedia:Weavile ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005ca5d5> .
+ns1:Weedle	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001cfd44> ,
+		ns3:weedle ,
+		dbpedia:Weedle .
+ns1:Weepinbell	owl:sameAs	dbpedia:Weepinbell ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000002cc700> ,
+		ns3:weepinbell .
+ns1:Weezing	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000585bdf> ,
+		dbpedia:Weezing ,
+		ns3:weezing .
+ns1:Whiscash	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000020ca6b> ,
+		ns3:whiscash ,
+		dbpedia:Whiscash .
+ns1:Whismur	owl:sameAs	ns3:whismur ,
+		dbpedia:Whismur .
+ns1:Wigglytuff	owl:sameAs	<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001c6df5> ,
+		ns3:wigglytuff ,
+		dbpedia:Wigglytuff .
+ns1:Wingull	owl:sameAs	ns3:wingull ,
+		dbpedia:Wingull ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000584e33> .
+ns1:Wobbuffet	owl:sameAs	dbpedia:Wobbuffet ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000207162> ,
+		ns3:wobbuffet .
+ns1:Wooper	owl:sameAs	ns3:wooper ,
+		dbpedia:Wooper ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000596239> .
+ns1:Wormadam	owl:sameAs	dbpedia:Wormadam ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000045d9942> ,
+		ns3:wormadam .
+ns1:Wurmple	owl:sameAs	ns3:wurmple ,
+		dbpedia:Wurmple ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000003768c7> .
+ns1:Wynaut	owl:sameAs	ns3:wynaut ,
+		dbpedia:Wynaut ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000028ade8> .
+ns1:Xatu	owl:sameAs	ns3:xatu ,
+		dbpedia:Xatu ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000005325d4> .
+ns1:Yanma	owl:sameAs	ns3:yanma ,
+		dbpedia:Yanma ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f8000000000595d82> .
+ns1:Yanmega	owl:sameAs	ns3:yanmega ,
+		dbpedia:Yanmega .
+ns1:Zangoose	owl:sameAs	ns3:zangoose ,
+		dbpedia:Zangoose ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000044487d> .
+ns1:Zapdos	owl:sameAs	dbpedia:Zapdos ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f80000000001e7bed> ,
+		ns3:zapdos .
+ns1:Zigzagoon	owl:sameAs	dbpedia:Zigzagoon ,
+		<http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000031aed1> ,
+		ns3:zigzagoon .
+ns1:Zubat	owl:sameAs	ns3:zubat ,
+		dbpedia:Zubat .
+ns3:abomasnow	owl:sameAs	ns1:Abomasnow .
+ns3:abra	owl:sameAs	ns1:Abra .
+ns3:absol	owl:sameAs	ns1:Absol .
+ns3:aerodactyl	owl:sameAs	ns1:Aerodactyl .
+ns3:aggron	owl:sameAs	ns1:Aggron .
+ns3:aipom	owl:sameAs	ns1:Aipom .
+ns3:alakazam	owl:sameAs	ns1:Alakazam .
+ns3:altaria	owl:sameAs	ns1:Altaria .
+ns3:ambipom	owl:sameAs	ns1:Ambipom .
+ns3:ampharos	owl:sameAs	ns1:Ampharos .
+ns3:anorith	owl:sameAs	ns1:Anorith .
+ns3:arbok	owl:sameAs	ns1:Arbok .
+ns3:arcanine	owl:sameAs	ns1:Arcanine .
+ns3:arceus	owl:sameAs	ns1:Arceus .
+ns3:ariados	owl:sameAs	ns1:Ariados .
+ns3:armaldo	owl:sameAs	ns1:Armaldo .
+ns3:aron	owl:sameAs	ns1:Aron .
+ns3:articuno	owl:sameAs	ns1:Articuno .
+ns3:azelf	owl:sameAs	ns1:Azelf .
+ns3:azumarill	owl:sameAs	ns1:Azumarill .
+ns3:azurill	owl:sameAs	ns1:Azurill .
+ns3:bagon	owl:sameAs	ns1:Bagon .
+ns3:baltoy	owl:sameAs	ns1:Baltoy .
+ns3:banette	owl:sameAs	ns1:Banette .
+ns3:barboach	owl:sameAs	ns1:Barboach .
+ns3:bastiodon	owl:sameAs	ns1:Bastiodon .
+ns3:bayleef	owl:sameAs	ns1:Bayleef .
+ns3:beautifly	owl:sameAs	ns1:Beautifly .
+ns3:beedrill	owl:sameAs	ns1:Beedrill .
+ns3:beldum	owl:sameAs	ns1:Beldum .
+ns3:bellossom	owl:sameAs	ns1:Bellossom .
+ns3:bellsprout	owl:sameAs	ns1:Bellsprout .
+ns3:bibarel	owl:sameAs	ns1:Bibarel .
+ns3:bidoof	owl:sameAs	ns1:Bidoof .
+ns3:blastoise	owl:sameAs	ns1:Blastoise .
+ns3:blaziken	owl:sameAs	ns1:Blaziken .
+ns3:blissey	owl:sameAs	ns1:Blissey .
+ns3:bonsly	owl:sameAs	ns1:Bonsly .
+ns3:breloom	owl:sameAs	ns1:Breloom .
+ns3:bronzong	owl:sameAs	ns1:Bronzong .
+ns3:bronzor	owl:sameAs	ns1:Bronzor .
+ns3:budew	owl:sameAs	ns1:Budew .
+ns3:buizel	owl:sameAs	ns1:Buizel .
+ns3:bulbasaur	owl:sameAs	ns1:Bulbasaur .
+ns3:buneary	owl:sameAs	ns1:Buneary .
+ns3:burmy	owl:sameAs	ns1:Burmy .
+ns3:butterfree	owl:sameAs	ns1:Butterfree .
+ns3:cacnea	owl:sameAs	ns1:Cacnea .
+ns3:cacturne	owl:sameAs	ns1:Cacturne .
+ns3:camerupt	owl:sameAs	ns1:Camerupt .
+ns3:carnivine	owl:sameAs	ns1:Carnivine .
+ns3:carvanha	owl:sameAs	ns1:Carvanha .
+ns3:cascoon	owl:sameAs	ns1:Cascoon .
+ns3:castform	owl:sameAs	ns1:Castform .
+ns3:caterpie	owl:sameAs	ns1:Caterpie .
+ns3:celebi	owl:sameAs	ns1:Celebi .
+ns3:chansey	owl:sameAs	ns1:Chansey .
+ns3:charizard	owl:sameAs	ns1:Charizard .
+ns3:charmander	owl:sameAs	ns1:Charmander .
+ns3:charmeleon	owl:sameAs	ns1:Charmeleon .
+ns3:chatot	owl:sameAs	ns1:Chatot .
+ns3:cherrim	owl:sameAs	ns1:Cherrim .
+ns3:cherubi	owl:sameAs	ns1:Cherubi .
+ns3:chikorita	owl:sameAs	ns1:Chikorita .
+ns3:chimchar	owl:sameAs	ns1:Chimchar .
+ns3:chimecho	owl:sameAs	ns1:Chimecho .
+ns3:chinchou	owl:sameAs	ns1:Chinchou .
+ns3:chingling	owl:sameAs	ns1:Chingling .
+ns3:clamperl	owl:sameAs	ns1:Clamperl .
+ns3:claydol	owl:sameAs	ns1:Claydol .
+ns3:clefable	owl:sameAs	ns1:Clefable .
+ns3:clefairy	owl:sameAs	ns1:Clefairy .
+ns3:cleffa	owl:sameAs	ns1:Cleffa .
+ns3:cloyster	owl:sameAs	ns1:Cloyster .
+ns3:combee	owl:sameAs	ns1:Combee .
+ns3:combusken	owl:sameAs	ns1:Combusken .
+ns3:corphish	owl:sameAs	ns1:Corphish .
+ns3:corsola	owl:sameAs	ns1:Corsola .
+ns3:cradily	owl:sameAs	ns1:Cradily .
+ns3:cranidos	owl:sameAs	ns1:Cranidos .
+ns3:crawdaunt	owl:sameAs	ns1:Crawdaunt .
+ns3:cresselia	owl:sameAs	ns1:Cresselia .
+ns3:croagunk	owl:sameAs	ns1:Croagunk .
+ns3:crobat	owl:sameAs	ns1:Crobat .
+ns3:croconaw	owl:sameAs	ns1:Croconaw .
+ns3:cubone	owl:sameAs	ns1:Cubone .
+ns3:cyndaquil	owl:sameAs	ns1:Cyndaquil .
+ns3:darkrai	owl:sameAs	ns1:Darkrai .
+ns3:delcatty	owl:sameAs	ns1:Delcatty .
+ns3:delibird	owl:sameAs	ns1:Delibird .
+ns3:deoxys	owl:sameAs	ns1:Deoxys .
+ns3:dewgong	owl:sameAs	ns1:Dewgong .
+ns3:dialga	owl:sameAs	ns1:Dialga .
+ns3:ditto	owl:sameAs	ns1:Ditto .
+ns3:dodrio	owl:sameAs	ns1:Dodrio .
+ns3:doduo	owl:sameAs	ns1:Doduo .
+ns3:donphan	owl:sameAs	ns1:Donphan .
+ns3:dragonair	owl:sameAs	ns1:Dragonair .
+ns3:dragonite	owl:sameAs	ns1:Dragonite .
+ns3:drapion	owl:sameAs	ns1:Drapion .
+ns3:dratini	owl:sameAs	ns1:Dratini .
+ns3:drifblim	owl:sameAs	ns1:Drifblim .
+ns3:drifloon	owl:sameAs	ns1:Drifloon .
+ns3:drowzee	owl:sameAs	ns1:Drowzee .
+ns3:dunsparce	owl:sameAs	ns1:Dunsparce .
+ns3:dusclops	owl:sameAs	ns1:Dusclops .
+ns3:dusknoir	owl:sameAs	ns1:Dusknoir .
+ns3:duskull	owl:sameAs	ns1:Duskull .
+ns3:dustox	owl:sameAs	ns1:Dustox .
+ns3:eevee	owl:sameAs	ns1:Eevee .
+ns3:ekans	owl:sameAs	ns1:Ekans .
+ns3:electabuzz	owl:sameAs	ns1:Electabuzz .
+ns3:electivire	owl:sameAs	ns1:Electivire .
+ns3:electrike	owl:sameAs	ns1:Electrike .
+ns3:electrode	owl:sameAs	ns1:Electrode .
+ns3:elekid	owl:sameAs	ns1:Elekid .
+ns3:empoleon	owl:sameAs	ns1:Empoleon .
+ns3:entei	owl:sameAs	ns1:Entei .
+ns3:espeon	owl:sameAs	ns1:Espeon .
+ns3:exeggcute	owl:sameAs	ns1:Exeggcute .
+ns3:exploud	owl:sameAs	ns1:Exploud .
+<https://demo.triply.cc/academy/pokemon/id/pokemon/farfetch\u0027d>	owl:sameAs	<http://example.com/pokemon/Farfetch%27d> .
+ns3:fearow	owl:sameAs	ns1:Fearow .
+ns3:feebas	owl:sameAs	ns1:Feebas .
+ns3:feraligatr	owl:sameAs	ns1:Feraligatr .
+ns3:finneon	owl:sameAs	ns1:Finneon .
+ns3:flaaffy	owl:sameAs	ns1:Flaaffy .
+ns3:flareon	owl:sameAs	ns1:Flareon .
+ns3:floatzel	owl:sameAs	ns1:Floatzel .
+ns3:flygon	owl:sameAs	ns1:Flygon .
+ns3:forretress	owl:sameAs	ns1:Forretress .
+ns3:froslass	owl:sameAs	ns1:Froslass .
+ns3:furret	owl:sameAs	ns1:Furret .
+ns3:gabite	owl:sameAs	ns1:Gabite .
+ns3:gallade	owl:sameAs	ns1:Gallade .
+ns3:garchomp	owl:sameAs	ns1:Garchomp .
+ns3:gardevoir	owl:sameAs	ns1:Gardevoir .
+ns3:gastly	owl:sameAs	ns1:Gastly .
+ns3:gastrodon	owl:sameAs	ns1:Gastrodon .
+ns3:gengar	owl:sameAs	ns1:Gengar .
+ns3:gible	owl:sameAs	ns1:Gible .
+ns3:girafarig	owl:sameAs	ns1:Girafarig .
+ns3:giratina	owl:sameAs	ns1:Giratina .
+ns3:glaceon	owl:sameAs	ns1:Glaceon .
+ns3:glalie	owl:sameAs	ns1:Glalie .
+ns3:glameow	owl:sameAs	ns1:Glameow .
+ns3:gligar	owl:sameAs	ns1:Gligar .
+ns3:gliscor	owl:sameAs	ns1:Gliscor .
+ns3:gloom	owl:sameAs	ns1:Gloom .
+ns3:golbat	owl:sameAs	ns1:Golbat .
+ns3:goldeen	owl:sameAs	ns1:Goldeen .
+ns3:golduck	owl:sameAs	ns1:Golduck .
+ns3:gorebyss	owl:sameAs	ns1:Gorebyss .
+ns3:granbull	owl:sameAs	ns1:Granbull .
+ns3:grotle	owl:sameAs	ns1:Grotle .
+ns3:groudon	owl:sameAs	ns1:Groudon .
+ns3:grovyle	owl:sameAs	ns1:Grovyle .
+ns3:growlithe	owl:sameAs	ns1:Growlithe .
+ns3:grumpig	owl:sameAs	ns1:Grumpig .
+ns3:gulpin	owl:sameAs	ns1:Gulpin .
+ns3:gyarados	owl:sameAs	ns1:Gyarados .
+ns3:happiny	owl:sameAs	ns1:Happiny .
+ns3:hariyama	owl:sameAs	ns1:Hariyama .
+ns3:haunter	owl:sameAs	ns1:Haunter .
+ns3:heatran	owl:sameAs	ns1:Heatran .
+ns3:heracross	owl:sameAs	ns1:Heracross .
+ns3:hippopotas	owl:sameAs	ns1:Hippopotas .
+ns3:hippowdon	owl:sameAs	ns1:Hippowdon .
+ns3:hitmonchan	owl:sameAs	ns1:Hitmonchan .
+ns3:hitmonlee	owl:sameAs	ns1:Hitmonlee .
+ns3:hitmontop	owl:sameAs	ns1:Hitmontop .
+ns3:honchkrow	owl:sameAs	ns1:Honchkrow .
+ns3:hoothoot	owl:sameAs	ns1:Hoothoot .
+ns3:hoppip	owl:sameAs	ns1:Hoppip .
+ns3:horsea	owl:sameAs	ns1:Horsea .
+ns3:houndoom	owl:sameAs	ns1:Houndoom .
+ns3:houndour	owl:sameAs	ns1:Houndour .
+ns3:huntail	owl:sameAs	ns1:Huntail .
+ns3:hypno	owl:sameAs	ns1:Hypno .
+ns3:igglybuff	owl:sameAs	ns1:Igglybuff .
+ns3:illumise	owl:sameAs	ns1:Illumise .
+ns3:infernape	owl:sameAs	ns1:Infernape .
+ns3:ivysaur	owl:sameAs	ns1:Ivysaur .
+ns3:jigglypuff	owl:sameAs	ns1:Jigglypuff .
+ns3:jirachi	owl:sameAs	ns1:Jirachi .
+ns3:jolteon	owl:sameAs	ns1:Jolteon .
+ns3:jumpluff	owl:sameAs	ns1:Jumpluff .
+ns3:jynx	owl:sameAs	ns1:Jynx .
+ns3:kabuto	owl:sameAs	ns1:Kabuto .
+ns3:kabutops	owl:sameAs	ns1:Kabutops .
+ns3:kadabra	owl:sameAs	ns1:Kadabra .
+ns3:kakuna	owl:sameAs	ns1:Kakuna .
+ns3:kangaskhan	owl:sameAs	ns1:Kangaskhan .
+ns3:kecleon	owl:sameAs	ns1:Kecleon .
+ns3:kingdra	owl:sameAs	ns1:Kingdra .
+ns3:kingler	owl:sameAs	ns1:Kingler .
+ns3:kirlia	owl:sameAs	ns1:Kirlia .
+ns3:koffing	owl:sameAs	ns1:Koffing .
+ns3:krabby	owl:sameAs	ns1:Krabby .
+ns3:kricketot	owl:sameAs	ns1:Kricketot .
+ns3:kricketune	owl:sameAs	ns1:Kricketune .
+ns3:kyogre	owl:sameAs	ns1:Kyogre .
+ns3:lairon	owl:sameAs	ns1:Lairon .
+ns3:lanturn	owl:sameAs	ns1:Lanturn .
+ns3:lapras	owl:sameAs	ns1:Lapras .
+ns3:larvitar	owl:sameAs	ns1:Larvitar .
+ns3:latias	owl:sameAs	ns1:Latias .
+ns3:latios	owl:sameAs	ns1:Latios .
+ns3:leafeon	owl:sameAs	ns1:Leafeon .
+ns3:ledian	owl:sameAs	ns1:Ledian .
+ns3:ledyba	owl:sameAs	ns1:Ledyba .
+ns3:lickilicky	owl:sameAs	ns1:Lickilicky .
+ns3:lickitung	owl:sameAs	ns1:Lickitung .
+ns3:lileep	owl:sameAs	ns1:Lileep .
+ns3:linoone	owl:sameAs	ns1:Linoone .
+ns3:lombre	owl:sameAs	ns1:Lombre .
+ns3:lopunny	owl:sameAs	ns1:Lopunny .
+ns3:lotad	owl:sameAs	ns1:Lotad .
+ns3:loudred	owl:sameAs	ns1:Loudred .
+ns3:lucario	owl:sameAs	ns1:Lucario .
+ns3:ludicolo	owl:sameAs	ns1:Ludicolo .
+ns3:lugia	owl:sameAs	ns1:Lugia .
+ns3:lumineon	owl:sameAs	ns1:Lumineon .
+ns3:lunatone	owl:sameAs	ns1:Lunatone .
+ns3:luvdisc	owl:sameAs	ns1:Luvdisc .
+ns3:luxio	owl:sameAs	ns1:Luxio .
+ns3:luxray	owl:sameAs	ns1:Luxray .
+ns3:machamp	owl:sameAs	ns1:Machamp .
+ns3:machoke	owl:sameAs	ns1:Machoke .
+ns3:machop	owl:sameAs	ns1:Machop .
+ns3:magby	owl:sameAs	ns1:Magby .
+ns3:magcargo	owl:sameAs	ns1:Magcargo .
+ns3:magikarp	owl:sameAs	ns1:Magikarp .
+ns3:magmar	owl:sameAs	ns1:Magmar .
+ns3:magmortar	owl:sameAs	ns1:Magmortar .
+ns3:magnemite	owl:sameAs	ns1:Magnemite .
+ns3:magneton	owl:sameAs	ns1:Magneton .
+ns3:magnezone	owl:sameAs	ns1:Magnezone .
+ns3:makuhita	owl:sameAs	ns1:Makuhita .
+ns3:mamoswine	owl:sameAs	ns1:Mamoswine .
+ns3:manaphy	owl:sameAs	ns1:Manaphy .
+ns3:manectric	owl:sameAs	ns1:Manectric .
+ns3:mankey	owl:sameAs	ns1:Mankey .
+ns3:mantine	owl:sameAs	ns1:Mantine .
+ns3:mantyke	owl:sameAs	ns1:Mantyke .
+ns3:mareep	owl:sameAs	ns1:Mareep .
+ns3:marill	owl:sameAs	ns1:Marill .
+ns3:marshtomp	owl:sameAs	ns1:Marshtomp .
+ns3:masquerain	owl:sameAs	ns1:Masquerain .
+ns3:mawile	owl:sameAs	ns1:Mawile .
+ns3:medicham	owl:sameAs	ns1:Medicham .
+ns3:meditite	owl:sameAs	ns1:Meditite .
+ns3:meganium	owl:sameAs	ns1:Meganium .
+ns3:mesprit	owl:sameAs	ns1:Mesprit .
+ns3:metagross	owl:sameAs	ns1:Metagross .
+ns3:metang	owl:sameAs	ns1:Metang .
+ns3:metapod	owl:sameAs	ns1:Metapod .
+ns3:mew	owl:sameAs	ns1:Mew .
+ns3:mewtwo	owl:sameAs	ns1:Mewtwo .
+ns3:mightyena	owl:sameAs	ns1:Mightyena .
+ns3:milotic	owl:sameAs	ns1:Milotic .
+ns3:miltank	owl:sameAs	ns1:Miltank .
+ns3:minun	owl:sameAs	ns1:Minun .
+ns3:misdreavus	owl:sameAs	ns1:Misdreavus .
+ns3:mismagius	owl:sameAs	ns1:Mismagius .
+ns3:moltres	owl:sameAs	ns1:Moltres .
+ns3:monferno	owl:sameAs	ns1:Monferno .
+ns3:mothim	owl:sameAs	ns1:Mothim .
+ns3:mudkip	owl:sameAs	ns1:Mudkip .
+ns3:munchlax	owl:sameAs	ns1:Munchlax .
+ns3:murkrow	owl:sameAs	ns1:Murkrow .
+ns3:natu	owl:sameAs	ns1:Natu .
+ns3:nidoking	owl:sameAs	ns1:Nidoking .
+ns3:nidoqueen	owl:sameAs	ns1:Nidoqueen .
+ns3:nidorina	owl:sameAs	ns1:Nidorina .
+ns3:nidorino	owl:sameAs	ns1:Nidorino .
+ns3:nincada	owl:sameAs	ns1:Nincada .
+ns3:ninjask	owl:sameAs	ns1:Ninjask .
+ns3:noctowl	owl:sameAs	ns1:Noctowl .
+ns3:nosepass	owl:sameAs	ns1:Nosepass .
+ns3:numel	owl:sameAs	ns1:Numel .
+ns3:nuzleaf	owl:sameAs	ns1:Nuzleaf .
+ns3:octillery	owl:sameAs	ns1:Octillery .
+ns3:oddish	owl:sameAs	ns1:Oddish .
+ns3:omanyte	owl:sameAs	ns1:Omanyte .
+ns3:omastar	owl:sameAs	ns1:Omastar .
+ns3:onix	owl:sameAs	ns1:Onix .
+ns3:pachirisu	owl:sameAs	ns1:Pachirisu .
+ns3:palkia	owl:sameAs	ns1:Palkia .
+ns3:paras	owl:sameAs	ns1:Paras .
+ns3:parasect	owl:sameAs	ns1:Parasect .
+ns3:pelipper	owl:sameAs	ns1:Pelipper .
+ns3:phanpy	owl:sameAs	ns1:Phanpy .
+ns3:phione	owl:sameAs	ns1:Phione .
+ns3:pichu	owl:sameAs	ns1:Pichu .
+ns3:pidgeot	owl:sameAs	ns1:Pidgeot .
+ns3:pidgeotto	owl:sameAs	ns1:Pidgeotto .
+ns3:pidgey	owl:sameAs	ns1:Pidgey .
+ns3:pikachu	owl:sameAs	ns1:Pikachu .
+ns3:piloswine	owl:sameAs	ns1:Piloswine .
+ns3:pineco	owl:sameAs	ns1:Pineco .
+ns3:pinsir	owl:sameAs	ns1:Pinsir .
+ns3:piplup	owl:sameAs	ns1:Piplup .
+ns3:plusle	owl:sameAs	ns1:Plusle .
+ns3:politoed	owl:sameAs	ns1:Politoed .
+ns3:poliwag	owl:sameAs	ns1:Poliwag .
+ns3:poliwhirl	owl:sameAs	ns1:Poliwhirl .
+ns3:poliwrath	owl:sameAs	ns1:Poliwrath .
+ns3:ponyta	owl:sameAs	ns1:Ponyta .
+ns3:poochyena	owl:sameAs	ns1:Poochyena .
+ns3:porygon	owl:sameAs	ns1:Porygon .
+ns3:porygon2	owl:sameAs	ns1:Porygon2 .
+ns3:primeape	owl:sameAs	ns1:Primeape .
+ns3:prinplup	owl:sameAs	ns1:Prinplup .
+ns3:probopass	owl:sameAs	ns1:Probopass .
+ns3:psyduck	owl:sameAs	ns1:Psyduck .
+ns3:pupitar	owl:sameAs	ns1:Pupitar .
+ns3:purugly	owl:sameAs	ns1:Purugly .
+ns3:quagsire	owl:sameAs	ns1:Quagsire .
+ns3:quilava	owl:sameAs	ns1:Quilava .
+ns3:qwilfish	owl:sameAs	ns1:Qwilfish .
+ns3:raikou	owl:sameAs	ns1:Raikou .
+ns3:ralts	owl:sameAs	ns1:Ralts .
+ns3:rampardos	owl:sameAs	ns1:Rampardos .
+ns3:rapidash	owl:sameAs	ns1:Rapidash .
+ns3:rayquaza	owl:sameAs	ns1:Rayquaza .
+ns3:regice	owl:sameAs	ns1:Regice .
+ns3:regigigas	owl:sameAs	ns1:Regigigas .
+ns3:regirock	owl:sameAs	ns1:Regirock .
+ns3:registeel	owl:sameAs	ns1:Registeel .
+ns3:relicanth	owl:sameAs	ns1:Relicanth .
+ns3:remoraid	owl:sameAs	ns1:Remoraid .
+ns3:rhydon	owl:sameAs	ns1:Rhydon .
+ns3:rhyhorn	owl:sameAs	ns1:Rhyhorn .
+ns3:rhyperior	owl:sameAs	ns1:Rhyperior .
+ns3:riolu	owl:sameAs	ns1:Riolu .
+ns3:roselia	owl:sameAs	ns1:Roselia .
+ns3:roserade	owl:sameAs	ns1:Roserade .
+ns3:rotom	owl:sameAs	ns1:Rotom .
+ns3:sableye	owl:sameAs	ns1:Sableye .
+ns3:salamence	owl:sameAs	ns1:Salamence .
+ns3:sceptile	owl:sameAs	ns1:Sceptile .
+ns3:scizor	owl:sameAs	ns1:Scizor .
+ns3:scyther	owl:sameAs	ns1:Scyther .
+ns3:seadra	owl:sameAs	ns1:Seadra .
+ns3:seaking	owl:sameAs	ns1:Seaking .
+ns3:sealeo	owl:sameAs	ns1:Sealeo .
+ns3:seedot	owl:sameAs	ns1:Seedot .
+ns3:seel	owl:sameAs	ns1:Seel .
+ns3:sentret	owl:sameAs	ns1:Sentret .
+ns3:seviper	owl:sameAs	ns1:Seviper .
+ns3:sharpedo	owl:sameAs	ns1:Sharpedo .
+ns3:shaymin	owl:sameAs	ns1:Shaymin .
+ns3:shedinja	owl:sameAs	ns1:Shedinja .
+ns3:shelgon	owl:sameAs	ns1:Shelgon .
+ns3:shellder	owl:sameAs	ns1:Shellder .
+ns3:shellos	owl:sameAs	ns1:Shellos .
+ns3:shieldon	owl:sameAs	ns1:Shieldon .
+ns3:shiftry	owl:sameAs	ns1:Shiftry .
+ns3:shinx	owl:sameAs	ns1:Shinx .
+ns3:shroomish	owl:sameAs	ns1:Shroomish .
+ns3:shuckle	owl:sameAs	ns1:Shuckle .
+ns3:shuppet	owl:sameAs	ns1:Shuppet .
+ns3:silcoon	owl:sameAs	ns1:Silcoon .
+ns3:skarmory	owl:sameAs	ns1:Skarmory .
+ns3:skiploom	owl:sameAs	ns1:Skiploom .
+ns3:skitty	owl:sameAs	ns1:Skitty .
+ns3:skorupi	owl:sameAs	ns1:Skorupi .
+ns3:skuntank	owl:sameAs	ns1:Skuntank .
+ns3:slaking	owl:sameAs	ns1:Slaking .
+ns3:slakoth	owl:sameAs	ns1:Slakoth .
+ns3:slowbro	owl:sameAs	ns1:Slowbro .
+ns3:slowking	owl:sameAs	ns1:Slowking .
+ns3:slowpoke	owl:sameAs	ns1:Slowpoke .
+ns3:slugma	owl:sameAs	ns1:Slugma .
+ns3:smeargle	owl:sameAs	ns1:Smeargle .
+ns3:smoochum	owl:sameAs	ns1:Smoochum .
+ns3:sneasel	owl:sameAs	ns1:Sneasel .
+ns3:snorlax	owl:sameAs	ns1:Snorlax .
+ns3:snorunt	owl:sameAs	ns1:Snorunt .
+ns3:snover	owl:sameAs	ns1:Snover .
+ns3:snubbull	owl:sameAs	ns1:Snubbull .
+ns3:solrock	owl:sameAs	ns1:Solrock .
+ns3:spearow	owl:sameAs	ns1:Spearow .
+ns3:spheal	owl:sameAs	ns1:Spheal .
+ns3:spinarak	owl:sameAs	ns1:Spinarak .
+ns3:spinda	owl:sameAs	ns1:Spinda .
+ns3:spiritomb	owl:sameAs	ns1:Spiritomb .
+ns3:spoink	owl:sameAs	ns1:Spoink .
+ns3:squirtle	owl:sameAs	ns1:Squirtle .
+ns3:stantler	owl:sameAs	ns1:Stantler .
+ns3:staraptor	owl:sameAs	ns1:Staraptor .
+ns3:staravia	owl:sameAs	ns1:Staravia .
+ns3:starly	owl:sameAs	ns1:Starly .
+ns3:starmie	owl:sameAs	ns1:Starmie .
+ns3:staryu	owl:sameAs	ns1:Staryu .
+ns3:steelix	owl:sameAs	ns1:Steelix .
+ns3:stunky	owl:sameAs	ns1:Stunky .
+ns3:sudowoodo	owl:sameAs	ns1:Sudowoodo .
+ns3:suicune	owl:sameAs	ns1:Suicune .
+ns3:sunflora	owl:sameAs	ns1:Sunflora .
+ns3:sunkern	owl:sameAs	ns1:Sunkern .
+ns3:surskit	owl:sameAs	ns1:Surskit .
+ns3:swablu	owl:sameAs	ns1:Swablu .
+ns3:swalot	owl:sameAs	ns1:Swalot .
+ns3:swampert	owl:sameAs	ns1:Swampert .
+ns3:swellow	owl:sameAs	ns1:Swellow .
+ns3:swinub	owl:sameAs	ns1:Swinub .
+ns3:taillow	owl:sameAs	ns1:Taillow .
+ns3:tangela	owl:sameAs	ns1:Tangela .
+ns3:tangrowth	owl:sameAs	ns1:Tangrowth .
+ns3:tauros	owl:sameAs	ns1:Tauros .
+ns3:teddiursa	owl:sameAs	ns1:Teddiursa .
+ns3:tentacool	owl:sameAs	ns1:Tentacool .
+ns3:tentacruel	owl:sameAs	ns1:Tentacruel .
+ns3:togekiss	owl:sameAs	ns1:Togekiss .
+ns3:togepi	owl:sameAs	ns1:Togepi .
+ns3:togetic	owl:sameAs	ns1:Togetic .
+ns3:torchic	owl:sameAs	ns1:Torchic .
+ns3:torkoal	owl:sameAs	ns1:Torkoal .
+ns3:torterra	owl:sameAs	ns1:Torterra .
+ns3:totodile	owl:sameAs	ns1:Totodile .
+ns3:toxicroak	owl:sameAs	ns1:Toxicroak .
+ns3:trapinch	owl:sameAs	ns1:Trapinch .
+ns3:treecko	owl:sameAs	ns1:Treecko .
+ns3:tropius	owl:sameAs	ns1:Tropius .
+ns3:turtwig	owl:sameAs	ns1:Turtwig .
+ns3:typhlosion	owl:sameAs	ns1:Typhlosion .
+ns3:tyranitar	owl:sameAs	ns1:Tyranitar .
+ns3:tyrogue	owl:sameAs	ns1:Tyrogue .
+ns3:umbreon	owl:sameAs	ns1:Umbreon .
+ns3:unown	owl:sameAs	ns1:Unown .
+ns3:ursaring	owl:sameAs	ns1:Ursaring .
+ns3:uxie	owl:sameAs	ns1:Uxie .
+ns3:vaporeon	owl:sameAs	ns1:Vaporeon .
+ns3:venomoth	owl:sameAs	ns1:Venomoth .
+ns3:venonat	owl:sameAs	ns1:Venonat .
+ns3:venusaur	owl:sameAs	ns1:Venusaur .
+ns3:vespiquen	owl:sameAs	ns1:Vespiquen .
+ns3:vibrava	owl:sameAs	ns1:Vibrava .
+ns3:victreebel	owl:sameAs	ns1:Victreebel .
+ns3:vigoroth	owl:sameAs	ns1:Vigoroth .
+ns3:vileplume	owl:sameAs	ns1:Vileplume .
+ns3:volbeat	owl:sameAs	ns1:Volbeat .
+ns3:voltorb	owl:sameAs	ns1:Voltorb .
+ns3:wailmer	owl:sameAs	ns1:Wailmer .
+ns3:wailord	owl:sameAs	ns1:Wailord .
+ns3:walrein	owl:sameAs	ns1:Walrein .
+ns3:wartortle	owl:sameAs	ns1:Wartortle .
+ns3:weavile	owl:sameAs	ns1:Weavile .
+ns3:weedle	owl:sameAs	ns1:Weedle .
+ns3:weepinbell	owl:sameAs	ns1:Weepinbell .
+ns3:weezing	owl:sameAs	ns1:Weezing .
+ns3:whiscash	owl:sameAs	ns1:Whiscash .
+ns3:whismur	owl:sameAs	ns1:Whismur .
+ns3:wigglytuff	owl:sameAs	ns1:Wigglytuff .
+ns3:wingull	owl:sameAs	ns1:Wingull .
+ns3:wobbuffet	owl:sameAs	ns1:Wobbuffet .
+ns3:wooper	owl:sameAs	ns1:Wooper .
+ns3:wormadam	owl:sameAs	ns1:Wormadam .
+ns3:wurmple	owl:sameAs	ns1:Wurmple .
+ns3:wynaut	owl:sameAs	ns1:Wynaut .
+ns3:xatu	owl:sameAs	ns1:Xatu .
+ns3:yanma	owl:sameAs	ns1:Yanma .
+ns3:yanmega	owl:sameAs	ns1:Yanmega .
+ns3:zangoose	owl:sameAs	ns1:Zangoose .
+ns3:zapdos	owl:sameAs	ns1:Zapdos .
+ns3:zigzagoon	owl:sameAs	ns1:Zigzagoon .
+ns3:zubat	owl:sameAs	ns1:Zubat .
