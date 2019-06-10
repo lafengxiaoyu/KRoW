@@ -1,0 +1,89 @@
+#constructing Pokemon graphs with index=name
+PREFIX mdb: <http://example.com/pokemon/>
+PREFIX spif: <http://spinrdf.org/spif#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+#relating basic informations, linking pictures and DBpedias
+#using INSERT when adding to graph
+CONSTRUCT{
+ ?myRowId a mdb:Pokemon ;
+  mdb:name ?name ;
+  mdb:japanese_name ?japanese_name ;
+  owl:sameAs ?DbpediaIRI;
+  mdb:gif ?PictureBattle;
+  foaf:depiction ?Picture;
+  mdb:isClassification ?classificationIRI ;
+  mdb:hasPokedex_number ?pokedex_numberIRI ;
+  mdb:fromGeneration ?generationIRI ;
+  mdb:hasType ?typeIRI ;
+  mdb:abilities ?abilitiesIRI ;
+  mdb:height_m ?height_m ;
+  mdb:weight_kg ?weight_kg ;
+  mdb:experience_growth ?experience_growth ;
+  mdb:base_happiness ?base_happiness ;
+  mdb:base_egg_steps ?base_egg_steps ;
+  mdb:capture_rate ?capture_rate ;
+  mdb:percentage_male ?percentage_male ;
+  mdb:is_legendary ?is_legendary ;
+  mdb:attack ?attack;
+  mdb:defense ?defense;
+  mdb:hp ?hp;
+  mdb:sp_attack ?sp_attack;
+  mdb:sp_defense ?sp_defense;
+  mdb:speed ?speed.
+  
+ ?classificationIRI a mdb:classification;
+  foaf:name ?classification.
+ ?pokedex_numberIRI a mdb:pokedex_number;
+  rdfs:value ?pokedex_number.
+ ?generationIRI a mdb:generation;
+  rdfs:value ?generation .
+ ?typeIRI a mdb:type;
+  foaf:name ?type .
+ ?abilitiesIRI a mdb:abilities;
+  foaf:name ?abilities .
+ ?DbpediaIRI a mdb:Dbpedia;
+  foaf:name ?Dbpedia.
+ ?PictureBattle a mdb:PictureBattle.
+ ?Picture a mdb:Picture.
+} WHERE {
+	 ?row a mdb:Pokemon ;
+	  mdb:name ?name ;
+	  mdb:Dbpedia ?Dbpedia;
+	  mdb:japanese_name ?japanese_name ;
+	  mdb:classification ?classification ;
+	  mdb:pokedex_number ?pokedex_number ;
+	  mdb:generation ?generation ;
+	  mdb:type ?type ;
+	  mdb:abilities ?abilities ;
+	  mdb:height_m ?height_m ;
+	  mdb:weight_kg ?weight_kg ;
+	  mdb:experience_growth ?experience_growth ;
+	  mdb:base_happiness ?base_happiness ;
+	  mdb:base_egg_steps ?base_egg_steps ;
+	  mdb:capture_rate ?capture_rate ;
+	  mdb:is_legendary ?is_legendary ;
+   	  mdb:PictureBattle ?PictureBattle;
+	  mdb:Picture ?Picture;
+	  mdb:attack ?attack;
+	  mdb:defense ?defense;
+	  mdb:hp ?hp;
+	  mdb:sp_attack ?sp_attack;
+	  mdb:sp_defense ?sp_defense;
+	  mdb:speed ?speed.
+	  OPTIONAL{?row mdb:percentage_male ?percentage_male}
+	 BIND(IRI(concat("http://example.com/pokemon/", spif:encodeURL(?name))) AS ?myRowId)
+	 BIND(IRI(concat("http://example.com/pokemon/", spif:encodeURL(?classification))) AS ?classificationIRI)
+	 BIND(IRI(concat("http://example.com/pokemon/", spif:encodeURL(?pokedex_number))) AS ?pokedex_numberIRI)
+	 BIND(IRI(concat("http://example.com/pokemon/", spif:encodeURL(?generation))) AS ?generationIRI)
+	 BIND(IRI(concat("http://example.com/pokemon/", spif:encodeURL(?type))) AS ?typeIRI)
+	 BIND(IRI(concat("http://example.com/pokemon/", spif:encodeURL(?Dbpedia))) AS ?DbpediaIRI)
+	}
+
+
+
+
+
+
